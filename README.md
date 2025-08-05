@@ -1,7 +1,6 @@
-@19355619860
+
 描述
-19355619860
-于 34 minutes ago开业
+
 分享一个短剧库，会长期维护和更新，方便做短剧推广和喜欢看短剧的人使用！
 
 
@@ -10,6 +9,7 @@
 https://docs.qq.com/sheet/DYXpobERqcndpWkNr
 
 点击链接后面就不用我介绍了，1个表格而已
+<img width="529" height="666" alt="0308fb848b38b98d576520794c48f69b" src="https://github.com/user-attachments/assets/44082164-3383-4d64-9594-162fc71ba03e" />
 
 表格里面，每个短剧都是单独的链接点开就可以看，是高清无码的
 
@@ -20,4 +20,5 @@ https://docs.qq.com/sheet/DYXpobERqcndpWkNr
 
 
 联系方式
-![3b0e93fdc568ced65116add236a1befe](https://github.com/user-attachments/assets/d9004178-9f7d-42fd-9ccf-a602347c4e65)
+
+<img width="684" height="647" alt="5198696814b20245c705b37cf8bca4a4" src="https://github.com/user-attachments/assets/2ec4b020-c775-4899-9c63-8b4e78d016d2" />
